@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319227106837",
+    "project_id": "notificacionespush-e3cb6",
+    "storage_bucket": "notificacionespush-e3cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319227106837:android:febbf94c395e817ae2601c",
+        "android_client_info": {
+          "package_name": "com.example.practica7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsGagW1iTfg8Yvc9HiPotAfdMuYddYF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
